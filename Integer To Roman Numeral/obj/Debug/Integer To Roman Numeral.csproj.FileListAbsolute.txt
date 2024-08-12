@@ -1,7 +1,0 @@
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Integer To Roman Numeral\bin\Debug\Integer To Roman Numeral.exe.config
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Integer To Roman Numeral\bin\Debug\Integer To Roman Numeral.exe
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Integer To Roman Numeral\bin\Debug\Integer To Roman Numeral.pdb
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Integer To Roman Numeral\obj\Debug\Integer To Roman Numeral.csproj.AssemblyReference.cache
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Integer To Roman Numeral\obj\Debug\Integer To Roman Numeral.csproj.CoreCompileInputs.cache
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Integer To Roman Numeral\obj\Debug\Integer To Roman Numeral.exe
-C:\Users\jeremy.kam\Documents\GitHub\CSharp-Tutorials\Mini Projects\Integer To Roman Numeral\obj\Debug\Integer To Roman Numeral.pdb

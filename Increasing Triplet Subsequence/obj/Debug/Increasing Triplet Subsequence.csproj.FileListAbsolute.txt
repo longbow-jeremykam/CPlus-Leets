@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Increasing Triplet Subsequence\bin\Debug\Increasing Triplet Subsequence.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Increasing Triplet Subsequence\bin\Debug\Increasing Triplet Subsequence.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Increasing Triplet Subsequence\bin\Debug\Increasing Triplet Subsequence.pdb
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Increasing Triplet Subsequence\obj\Debug\Increasing Triplet Subsequence.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Increasing Triplet Subsequence\obj\Debug\Increasing Triplet Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Increasing Triplet Subsequence\obj\Debug\Increasing Triplet Subsequence.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Increasing Triplet Subsequence\obj\Debug\Increasing Triplet Subsequence.pdb

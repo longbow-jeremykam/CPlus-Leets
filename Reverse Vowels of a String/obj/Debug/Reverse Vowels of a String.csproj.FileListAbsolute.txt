@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Vowels of a String\bin\Debug\Reverse Vowels of a String.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Vowels of a String\bin\Debug\Reverse Vowels of a String.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Vowels of a String\bin\Debug\Reverse Vowels of a String.pdb
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Vowels of a String\obj\Debug\Reverse Vowels of a String.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Vowels of a String\obj\Debug\Reverse Vowels of a String.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Vowels of a String\obj\Debug\Reverse Vowels of a String.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Vowels of a String\obj\Debug\Reverse Vowels of a String.pdb

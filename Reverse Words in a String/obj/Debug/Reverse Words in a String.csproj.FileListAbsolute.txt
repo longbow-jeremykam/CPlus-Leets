@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Words in a String\bin\Debug\Reverse Words in a String.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Words in a String\bin\Debug\Reverse Words in a String.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Words in a String\bin\Debug\Reverse Words in a String.pdb
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Words in a String\obj\Debug\Reverse Words in a String.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Words in a String\obj\Debug\Reverse Words in a String.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Words in a String\obj\Debug\Reverse Words in a String.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Reverse Words in a String\obj\Debug\Reverse Words in a String.pdb

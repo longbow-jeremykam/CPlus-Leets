@@ -1,12 +1,41 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\Leets\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E844651F-A387-4222-94D5-3F3BD93EA244}|String Compression\\String Compression.csproj|c:\\users\\jeremy.kam\\documents\\github\\leets\\string compression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E844651F-A387-4222-94D5-3F3BD93EA244}|String Compression\\String Compression.csproj|solutionrelative:string compression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\Leets\\String Compression\\Program.cs",
+              "RelativeDocumentMoniker": "String Compression\\Program.cs",
+              "ToolTip": "C:\\Users\\jeremy.kam\\Documents\\GitHub\\Leets\\String Compression\\Program.cs",
+              "RelativeToolTip": "String Compression\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T07:08:22.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

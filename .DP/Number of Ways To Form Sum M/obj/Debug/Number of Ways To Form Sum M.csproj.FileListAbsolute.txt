@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Number of Ways To Form Sum M\bin\Debug\Number of Ways To Form Sum M.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Number of Ways To Form Sum M\bin\Debug\Number of Ways To Form Sum M.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Number of Ways To Form Sum M\bin\Debug\Number of Ways To Form Sum M.pdb
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Number of Ways To Form Sum M\obj\Debug\Number of Ways To Form Sum M.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Number of Ways To Form Sum M\obj\Debug\Number of Ways To Form Sum M.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Number of Ways To Form Sum M\obj\Debug\Number of Ways To Form Sum M.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Number of Ways To Form Sum M\obj\Debug\Number of Ways To Form Sum M.pdb

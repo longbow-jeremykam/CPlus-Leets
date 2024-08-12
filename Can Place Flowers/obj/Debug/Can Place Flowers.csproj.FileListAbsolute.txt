@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Can Place Flowers\bin\Debug\Can Place Flowers.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Can Place Flowers\bin\Debug\Can Place Flowers.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Can Place Flowers\bin\Debug\Can Place Flowers.pdb
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Can Place Flowers\obj\Debug\Can Place Flowers.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Can Place Flowers\obj\Debug\Can Place Flowers.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Can Place Flowers\obj\Debug\Can Place Flowers.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\Can Place Flowers\obj\Debug\Can Place Flowers.pdb

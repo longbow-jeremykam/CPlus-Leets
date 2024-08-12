@@ -1,0 +1,7 @@
+C:\Users\jeremy.kam\Documents\GitHub\Leets\.DP\Minimum Coins for Sum M\obj\Debug\Minimum Coins for Sum M.csproj.AssemblyReference.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\.DP\Minimum Coins for Sum M\obj\Debug\Minimum Coins for Sum M.csproj.CoreCompileInputs.cache
+C:\Users\jeremy.kam\Documents\GitHub\Leets\.DP\Minimum Coins for Sum M\bin\Debug\Minimum_Coins_for_Sum_M.exe.config
+C:\Users\jeremy.kam\Documents\GitHub\Leets\.DP\Minimum Coins for Sum M\bin\Debug\Minimum_Coins_for_Sum_M.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\.DP\Minimum Coins for Sum M\bin\Debug\Minimum_Coins_for_Sum_M.pdb
+C:\Users\jeremy.kam\Documents\GitHub\Leets\.DP\Minimum Coins for Sum M\obj\Debug\Minimum_Coins_for_Sum_M.exe
+C:\Users\jeremy.kam\Documents\GitHub\Leets\.DP\Minimum Coins for Sum M\obj\Debug\Minimum_Coins_for_Sum_M.pdb
